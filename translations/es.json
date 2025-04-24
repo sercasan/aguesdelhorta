@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Conectar con Aigües de l'Horta",
+        "description": "Introduce tus credenciales de la web de Aigües de l'Horta",
+        "data": {
+          "username": "Usuario/Email",
+          "password": "Contraseña"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Usuario o contraseña incorrectos",
+      "unknown": "Error desconocido"
+    },
+    "abort": {
+      "already_configured": "La cuenta ya está configurada"
+    }
+  }
+}
