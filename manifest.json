@@ -1,0 +1,11 @@
+{
+  "domain": "aigues_horta",
+  "name": "Aigües de l'Horta",
+  "version": "0.1.0",
+  "documentation": "https://github.com/sercasan/hass-aigues-horta",
+  "dependencies": [],
+  "codeowners": ["@sercasan"],
+  "requirements": ["beautifulsoup4>=4.9.0"],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
