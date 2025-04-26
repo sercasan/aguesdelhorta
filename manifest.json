@@ -7,5 +7,9 @@
   "codeowners": ["@sercasan"],
   "requirements": ["beautifulsoup4>=4.9.0"],
   "iot_class": "cloud_polling",
-  "config_flow": true
+  "config_flow": true,
+  "brand": {
+    "name": "Aigües de l'Horta",
+    "url": "https://www.aigueshorta.es"
+  }
 }
